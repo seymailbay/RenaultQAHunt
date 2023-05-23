@@ -1,0 +1,19 @@
+Yakınımdaki Yetkili Satıcı Bul Test Senaryosu 
+Test Özet: https://www.renault.com.tr/ sitesinde yakınımda yetkili satıcı bul seçeneğinden istenilen özellikteki şubeden online servis randevusu alabilmek.
+
+Ön Koşullar: Kesintisiz bir internet bağlantısı. 
+
+Test Adımları: 1-https://www.renault.com.tr/ sitesine giriş yapın.
+2-Anasayfanın başarılı bir şeklide açıldığını kontrol edin. 
+3-Sağ üst tarafta bulunan iconlardan Yetkili Satıcıyı Bul yazana tıklayın.
+4-Çıkan sayfanın doğru ve sorunsuz açıldığından emin olun. 
+5-Açılan sayfada yakınımda yazan sarı renkli butona tıklayın. 
+6-Sol tarafta yetkili satıcılar numaralı bir şekilde çıkmış ve haritada da aynı numaralı bir şekilde gözükmüş olmalı. 
+7-Sol listeden Filtrele butonuna basınız. 
+8-Ardından yeni araç satış kutucuğuna tıklayın. 
+9-Onayla butonuna tıklayın. 
+10-Çıkan şubelerden 3 numaralı Baday Otom isimli şubeye tıklayınız. 
+11-Açılan sekmede online servis randevusu al butonuna tıklayın. 
+12-Online Servis Randevusu sayfasına başarılı bir şekilde geçildimi kontrol edin. 
+
+Beklenen Sonuç: Bütün adımların başarılı bir şekilde izlenip istenilen şubeden online servis randevusu sayfasına geçilmek.
